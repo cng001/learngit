@@ -1,2 +1,3 @@
-the first input
-the second input
+The first input
+The second input
+Add one more
